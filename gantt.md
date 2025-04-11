@@ -3,6 +3,7 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat %V (Semana %U)
     section Fase 1: Identificación
+    
     Análisis inicial               :done, des1, 2023-10-02, 7d
     Documento de objetivos         :active, des2, 2023-10-09, 5d
     section Fase 2: Requisitos
